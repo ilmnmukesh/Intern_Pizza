@@ -1,0 +1,20 @@
+Name,Base,Small,Medium,Large,Topping,Veg
+Margherita,99,0,100,296,,TRUE
+Cheese & Corn,99,66,206,396,"Cheese, Corn",TRUE
+Cheese & Tomato,99,66,206,396,"Cheese, Tomato",TRUE
+Double Cheese Margherita,99,86,236,436,Cheese,TRUE
+Fresh Veggie,99,86,236,436,Vegetables,TRUE
+Peppy Paneer,99,116,296,496,Panner,TRUE
+Veggie Paradise,99,116,296,496,Vegetables,TRUE
+Paneer Makhni,99,116,296,496,Panner,TRUE
+Veg Extravaganza,99,136,351,596,Vegetables,TRUE
+Indi Tandoori Paneer,99,136,351,596,Tandoori panner,TRUE
+Chicken Sausage,99,66,206,396,Chicken,FALSE
+Pepper Barbecue Chicken,99,86,236,436,Chicken,FALSE
+Pepper Barbecue & Onion,99,116,296,496,"Chicken, Onion",FALSE
+Chicken Golden Delight,99,136,351,596,Chicken,FALSE
+Chicken Fiesta,99,136,351,596,Chicken,FALSE
+Chicken Pepperoni,99,206,471,736,Chicken,FALSE
+Chicken Dominator,99,206,471,736,Chicken,FALSE
+Non Veg Supreme,99,206,471,736,"Chicken, Vegetables",FALSE
+Indi Chiken Tikka,99,206,471,736,Chicken,FALSE
